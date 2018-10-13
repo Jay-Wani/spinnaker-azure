@@ -34,6 +34,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ## Connect to Spinnaker
 
 Navigate to http://localhost:9000/ on your local machine.
+
 Navigate to 'Applications -> {Application Name} -> Pipelines' to see your pipeline. Follow steps [here](http://www.spinnaker.io/docs/kubernetes-source-to-prod#section-1-create-a-spinnaker-application) to create a pipeline manually.
 
 
