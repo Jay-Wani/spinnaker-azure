@@ -3,7 +3,7 @@ spinnaker on azure kubernetes service (AKS)
 
 
 
-# Continuous Deployment to Kubernetes(http://devops-ci.westcentralus.cloudapp.azure.com/blue/organizations/jenkins/qs%2F301-jenkins-acr-spinnaker-k8s/activity)
+# Continuous Deployment to Kubernetes
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F301-jenkins-acr-spinnaker-k8s%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
