@@ -20,9 +20,9 @@ Create service principle
     az login
     az account set --subscription <Subscription ID>
     az ad sp create-for-rbac --name "Spinnaker"
-    ```
+```
    
-``bash
+```bash
 ssh -i <path to private key file> -L 8080:localhost:8080 -L 9000:localhost:9000 -L 8084:localhost:8084 -L 8001:localhost:8001 <User name>@<Public DNS name of instance you just created>
 ```
 `sudo cat /var/lib/jenkins/secrets/initialAdminPassword`
